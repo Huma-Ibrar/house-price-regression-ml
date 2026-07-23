@@ -55,10 +55,10 @@ Decision Tree 36,676.98 46,488.95 0.9665
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
 ```
 
-Open `house_price_regression_professional.ipynb` in Jupyter or VS Code and run all cells in order.
+Open `house_price_regression.ipynb` in Jupyter or VS Code and run all cells in order.
 
 ## 📁 Files
 
-- `house_price_regression_professional.ipynb` — full analysis and model comparison notebook
+- `house_price_regression.ipynb` — full analysis and model comparison notebook
 - `house_price_regression_dataset.csv` — dataset used
 - `house_price_model.pkl` — saved final model (Linear Regression)
